@@ -13,33 +13,37 @@ hr {
   width: 8%;
   border-width: 6px 0px 0px 0px;
 }
-h1: hover{
-  
-}
-p {
-  color: white;
+
+p:hover {
+  color: gold;
 }
 
-img {
+img:hover {
   border-style: dotted;
   border-width: 6px;
+  border-radius: 0%;
 }
 
 /*****************CLASS SELECTORS******************/
 .santo {
-  color: green;
+ color: green;
   border-style: dotted;
+  border-radius:100%;
   border-width: 6px;
 }
 
+p{
+  color: white;
+}
 .chicharito {
   color: red;
+  border-radius: 100%;
   border-style: solid;
   border-width: 6px;
 }
 
 .I {
-  animation: 3s linear 1s infinite running ;
+
   color: green;
 }
 
