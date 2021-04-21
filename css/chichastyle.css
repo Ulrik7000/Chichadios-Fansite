@@ -1,0 +1,53 @@
+body {
+  background: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/04/22/21/Chicharito.jpg?width=982&height=726&auto=webp&quality=75") no-repeat fixed;
+  background-size: auto;
+  background-size: cover;
+}
+
+/********************TAG SELECTORS****************/
+hr {
+  background-origin: center;
+  background-color: none;
+  border-style: dotted;
+  height: 0px;
+  width: 8%;
+  border-width: 6px 0px 0px 0px;
+}
+h1: hover{
+  
+}
+p {
+  color: white;
+}
+
+img {
+  border-style: dotted;
+  border-width: 6px;
+}
+
+/*****************CLASS SELECTORS******************/
+.santo {
+  color: green;
+  border-style: dotted;
+  border-width: 6px;
+}
+
+.chicharito {
+  color: red;
+  border-style: solid;
+  border-width: 6px;
+}
+
+.I {
+  animation: 3s linear 1s infinite running ;
+  color: green;
+}
+
+.Love {
+  color: white;
+}
+
+.Chichadios {
+  color: red;
+}
+}
